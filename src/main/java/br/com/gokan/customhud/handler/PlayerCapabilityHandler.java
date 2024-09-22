@@ -1,4 +1,4 @@
-package handler;
+package br.com.gokan.customhud.handler;
 
 import net.mcreator.trueprimepiece.TrueprimepieceModVariables;
 import net.minecraft.entity.player.PlayerEntity;

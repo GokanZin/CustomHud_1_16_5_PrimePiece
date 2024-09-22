@@ -4,7 +4,7 @@ import br.com.gokan.customhud.Main;
 import com.mojang.blaze3d.matrix.MatrixStack;
 import com.mojang.blaze3d.systems.RenderSystem;
 //import handler.PlayerCapabilityHandler;
-import handler.PlayerCapabilityHandler;
+import br.com.gokan.customhud.handler.PlayerCapabilityHandler;
 import net.minecraft.client.Minecraft;
 import net.minecraft.client.gui.AbstractGui;
 import net.minecraft.client.gui.FontRenderer;
